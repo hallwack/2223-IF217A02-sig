@@ -35,12 +35,14 @@
 | 🌏 Koordinat | poin      | [106.03794 -6.39284693]                                                     |
 | 🌏 Area      | polygon   | [[106.03794 -6.39284693], [106.03794 -6.39284693], [106.03794 -6.39284693]] |
 
-### Bus
+### Rute
 
 | Nama Atribut         | Tipe Date | Contoh             |
 | -------------------- | --------- | ------------------ |
 | UUID                 | string    | ooj73849r734mf34r3 |
-| Kode Bus             | string    | TMP-001            |
+| Kode Rute             | string    | TMP-001            |
+| 🌏 Koordinat Awal | poin      | [106.03794 -6.39284693]                                                     |
+| 🌏 Koordinat Akhir | poin      | [106.03794 -6.39284693]                                                     |
 | Trayek Keberangkatan | string    | Alun-alun Bandung  |
 | Trayek Tujuan        | string    | Cibiru             |
 
