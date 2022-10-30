@@ -49,3 +49,9 @@
 | Nama user    | string    | Raihan Adam        |
 
 ## Mockup
+
+### Rute
+<img width="1440" alt="Rute" src="https://user-images.githubusercontent.com/56082780/198896011-f79ce407-5ab2-4a97-9c5e-279b1e87cd5e.png">
+
+### Halte
+<img width="1440" alt="Halte" src="https://user-images.githubusercontent.com/56082780/198896032-8b4b329d-993e-4f37-9486-437a9010b4f9.png">
