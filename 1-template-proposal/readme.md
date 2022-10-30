@@ -20,6 +20,9 @@
 - \*Pengguna dapat mengetahui posisi bus
 - \*Pengguna dapat mengetahui kapan bus selanjutnya tiba
 
+![Use Case](https://user-images.githubusercontent.com/56082780/198896637-3ce46e7a-9844-4012-99c3-a805b6b3302d.png)
+
+
 ## Struktur Data
 
 ### Halte
